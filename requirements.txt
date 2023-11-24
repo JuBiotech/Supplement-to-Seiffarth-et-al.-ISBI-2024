@@ -1,0 +1,9 @@
+jupyterlab==4.0.9
+imagecodecs==2023.9.18
+igraph==0.11.3
+dash[diskcache]==2.14.1
+dash-bootstrap-components==1.5.0
+multiprocess==0.70.15
+git+https://jugit.fz-juelich.de/publications/acia-pre.git@c989af4c3007882239dd724a2f3a8b13715d0c88#acia
+moviepy==1.0.3
+ipywidgets==8.1.1
